@@ -14,10 +14,15 @@ Conjunto de bibliotecas .NET para abstração e manipulação de bancos de dados
 ## Instalação
 
 Cada driver é distribuído como pacote NuGet independente.  
-Exemplo para instalar o driver Firebird:
+Exemplos:
 
 ```sh
+dotnet add package MVFC.SQLCraft
+dotnet add package MVFC.SQLCraft.Mysql
 dotnet add package MVFC.SQLCraft.Firebird
+dotnet add package MVFC.SQLCraft.MsSQL
+dotnet add package MVFC.SQLCraft.PostgreSql
+dotnet add package MVFC.SQLCraft.SQLite
 ```
 
 Repita para o driver desejado.
@@ -26,14 +31,6 @@ Repita para o driver desejado.
 
 1. Instale o pacote base e o driver do banco desejado.
 2. Utilize as abstrações do MVFC.SQLCraft para criar conexões e executar queries.
-
-```csharp
-using MVFC.SQLCraft;
-using MVFC.SQLCraft.Firebird; // ou outro driver
-
-// Exemplo de uso
-var connection = FirebirdFactory.CreateConnection("sua-connection-string");
-```
 
 ## Sobre
 
