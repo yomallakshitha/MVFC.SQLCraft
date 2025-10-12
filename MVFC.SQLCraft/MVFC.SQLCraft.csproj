@@ -9,11 +9,13 @@
 		<Description>MVFC.SQLCraft: Biblioteca principal para abstração e execução de queries SQL multiplataforma em .NET 9. Base para extensões de bancos de dados.</Description>
 		<PackageTags>sql;sqlcraft;query;database;abstraction;dotnet;orm;multiplataforma;extensao</PackageTags>
 		<Version>0.0.0</Version>
-		<PackageReadmeFile>README</PackageReadmeFile>
+		<PackageReadmeFile>README.md</PackageReadmeFile>
+		<RepositoryUrl>https://github.com/Marcus-V-Freitas/MVFC.SQLCraft/tree/master/MVFC.SQLCraft</RepositoryUrl>
+		<RepositoryType>git</RepositoryType>
   	</PropertyGroup>
 	
   	<ItemGroup>
-    	<None Include="README" Pack="true" PackagePath="" />
+    	<None Include="README.md" Pack="true" PackagePath="" />
   	</ItemGroup>
 
 	<ItemGroup>
