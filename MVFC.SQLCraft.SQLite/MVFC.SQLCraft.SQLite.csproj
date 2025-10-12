@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net9.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<Authors>Marcus Vinicius de Freitas Costa</Authors>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<Description>MVFC.SQLCraft.SQLite: Extensão para acesso SQLite usando MVFC.SQLCraft. Integração simplificada e segura para bancos SQLite em .NET 9.</Description>
+		<PackageTags>sql;sqlite;sqlcraft;database;dotnet;extensao</PackageTags>
+		<Version>0.0.0</Version>
+		<PackageReadmeFile>README</PackageReadmeFile>
+  	</PropertyGroup>
+	
+  	<ItemGroup>
+    	<None Include="README" Pack="true" PackagePath="" />
+  	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="System.Data.SQLite" Version="2.0.2" />
+		<PackageReference Include="Microsoft.Data.Sqlite" Version="9.0.9" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\MVFC.SQLCraft\MVFC.SQLCraft.csproj" />
+	</ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+<Project>
+	<PropertyGroup>
+		<LangVersion>13.0</LangVersion>
+		<NoWarn>S101</NoWarn>
+		<EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<AdditionalFiles Include="editorconfig" />
+	</ItemGroup>
+</Project>

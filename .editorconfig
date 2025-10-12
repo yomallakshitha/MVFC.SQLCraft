@@ -1,0 +1,42 @@
+root = true
+
+[*.cs]
+
+dotnet_style_qualification_for_field = false:suggestion
+dotnet_style_qualification_for_property = false:suggestion
+dotnet_style_qualification_for_method = false:suggestion
+dotnet_style_qualification_for_event = false:suggestion
+
+csharp_new_line_before_open_brace = all:true
+csharp_indent_switch_labels = true
+csharp_prefer_braces = true:suggestion
+csharp_style_var_for_built_in_types = true:suggestion
+csharp_style_var_when_type_is_apparent = true:suggestion
+csharp_style_var_elsewhere = false:suggestion
+
+############### ESTILO: var / tipos ###############
+csharp_style_var_for_built_in_types = true:suggestion
+csharp_style_var_when_type_is_apparent = true:silent
+csharp_style_var_elsewhere = true:suggestion
+
+############### EXPRESSÕES e CONDICIONAIS ###############
+csharp_prefer_conditional_expression_over_assignment = true:suggestion
+csharp_prefer_conditional_expression_over_return = true:suggestion
+csharp_style_pattern_matching_over_is_with_cast_check = true:suggestion
+csharp_style_expression_bodied_methods = true:suggestion
+csharp_style_expression_bodied_properties = true:suggestion
+
+############### ORGANIZAÇÃO / LIMPEZA ###############
+csharp_prefer_braces = false:silent
+dotnet_sort_system_directives_first = true
+csharp_new_line_between_query_expression_clauses = true
+
+############### FORMATAÇÃO ###############
+indent_style = space
+indent_size = 4
+tab_width = 4
+end_of_line = crlf
+
+############### IMPORT & UNUSED ###############
+dotnet_diagnostic.IDE0005.severity = warning   # using não usados
+dotnet_diagnostic.IDE0060.severity = suggestion # parâmetro não usado
