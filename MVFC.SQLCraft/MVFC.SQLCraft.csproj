@@ -11,6 +11,7 @@
 		<PackageTags>sql;sqlcraft;query;database;abstraction;dotnet;orm;multiplataforma;extensao</PackageTags>
 		<Version>0.0.0</Version>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
+		<PackageProjectUrl>https://www.nuget.org/packages/MVFC.SQLCraft</PackageProjectUrl>
 		<RepositoryUrl>https://github.com/Marcus-V-Freitas/MVFC.SQLCraft/tree/master/MVFC.SQLCraft</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
 	</PropertyGroup>
