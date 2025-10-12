@@ -1,7 +1,7 @@
 <Project>
 	<PropertyGroup>
 		<LangVersion>13.0</LangVersion>
-		<NoWarn>S101</NoWarn>
+		<NoWarn>S101;IDE0005</NoWarn>
 		<EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
 	</PropertyGroup>
 

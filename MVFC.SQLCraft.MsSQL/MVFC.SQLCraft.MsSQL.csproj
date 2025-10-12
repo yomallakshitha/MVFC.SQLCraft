@@ -2,6 +2,7 @@
 
 	<PropertyGroup>
 		<TargetFramework>net9.0</TargetFramework>
+		<GenerateDocumentationFile>false</GenerateDocumentationFile>
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
 		<Authors>Marcus Vinicius de Freitas Costa</Authors>
@@ -12,11 +13,11 @@
 		<PackageReadmeFile>README.md</PackageReadmeFile>
 		<RepositoryUrl>https://github.com/Marcus-V-Freitas/MVFC.SQLCraft/tree/master/MVFC.SQLCraft.MsSQL</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
-  	</PropertyGroup>
-	
-  	<ItemGroup>
-    	<None Include="README.md" Pack="true" PackagePath="" />
-  	</ItemGroup>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<None Include="README.md" Pack="true" PackagePath="" />
+	</ItemGroup>
 
 	<ItemGroup>
 		<PackageReference Include="microsoft.data.sqlclient" Version="6.1.2" />
